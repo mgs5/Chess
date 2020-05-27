@@ -18,6 +18,8 @@ public class Game {
     //turn control
     boolean whiteToPlay = true;
 
+    
+
     // Minimal constructor. Expand as needed (kt54)
     public Game() {
         gameBoard = new Board();
